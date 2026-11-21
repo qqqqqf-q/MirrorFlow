@@ -21,6 +21,6 @@ MirrorFlow 提供一套端到端工具链：
 ## 开始贡献 / 训练
 
 - 贡献数据：在 OpenAI 官网点击`导出数据`，把导出压缩包发给我  
-  X: [@qqqqqf5](https://x.com/qqqqqf5)  
+  X: [@qqqqqf_](https://x.com/qqqqqf_)  
   Telegram: [点击此处添加我的双向聊天](https://t.me/NS_qingf_bot)
 - 本地训练：先跑 `openai-distill` / `openai-clean` 生成训练集，再按「快速上手 -> 微调模型」进行微调
