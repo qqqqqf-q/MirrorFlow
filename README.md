@@ -20,8 +20,8 @@
     [<a href="https://qqqqqf-q.github.io/MirrorFlow/">中文文档</a>]
     [<a href="https://qqqqqf-q.github.io/MirrorFlow/en/">Docs</a>]
     [<a href="https://github.com/qqqqqf-q/MirrorFlow/issues">Issues</a>]
-    [<a href="https://twitter.com/qqqqqf5">X</a>]
-    [<a href="mailto:qingf622@outlook.com">Email</a>]
+    [<a href="https://x.com/qqqqqf_">X</a>]
+    [<a href="mailto:qff45688@gmail.com">Email</a>]
   </div>
   <hr>
 </div>
@@ -41,7 +41,7 @@ MirrorFlow 提供一套端到端工具链：
 ## Distill
 
 [文章删除]
-X: [@qqqqqf5](https://x.com/qqqqqf5)  
+X: [@qqqqqf_](https://x.com/qqqqqf_)  
 Telegram: [点击此处添加我的双向聊天](https://t.me/NS_qingf_bot)  
 ---
 以下是使用Qwen2.5 1.5b Instruct + 我自己的数据训练的Lora + 修改过的System Prompt的训练结果
