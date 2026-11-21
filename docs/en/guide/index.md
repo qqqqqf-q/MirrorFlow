@@ -21,6 +21,6 @@ MirrorFlow provides an end-to-end toolchain:
 ## Contribute / Train
 
 - Contribute data: click “Export data” in ChatGPT settings and send me the exported zip archive  
-  X: [@qqqqqf5](https://x.com/qqqqqf5)  
+  X: [@qqqqqf_](https://x.com/qqqqqf_)  
   Telegram: [DM me here](https://t.me/NS_qingf_bot)
 - Train locally: run `openai-distill` / `openai-clean` to generate the dataset, then follow “Quick Start -> Fine-tune Model”
