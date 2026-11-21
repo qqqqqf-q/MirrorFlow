@@ -30,7 +30,7 @@ Keep4o 是一条面向「GPT-4o 风格对齐」的数据流水线：用你自己
 
 如果你愿意帮 Keep4o 的数据更丰富（尤其是高质量长对话、复杂澄清、稳定拒答、结构化输出等），可以把你从 ChatGPT 导出的压缩包（或解压后的 `conversations.json`）发给我：
 
-- X：[@qqqqqf5](https://x.com/qqqqqf5)
+- X：[@qqqqqf_](https://x.com/qqqqqf_)
 - Telegram：[点击此处添加我的双向聊天](https://t.me/NS_qingf_bot)
 
 我们需要更多数据与更多 GPU 来 Keep4o。
