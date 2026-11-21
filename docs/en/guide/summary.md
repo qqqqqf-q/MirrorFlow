@@ -16,6 +16,6 @@
 ### For more detailed steps or script parameter explanations, welcome to ~~bother~~ contact me:
 
 
- * Email: qingf622@outlook.com
- * X: @qqqqqf5
+ * Email: qff45688@gmail.com
+ * X: @qqqqqf_
 ---
