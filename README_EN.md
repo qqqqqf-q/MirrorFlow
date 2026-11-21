@@ -20,8 +20,8 @@
     [<a href="https://qqqqqf-q.github.io/MirrorFlow/">中文文档</a>]
     [<a href="https://qqqqqf-q.github.io/MirrorFlow/en/">Docs</a>]
     [<a href="https://github.com/qqqqqf-q/MirrorFlow/issues">Issues</a>]
-    [<a href="https://twitter.com/qqqqqf5">X</a>]
-    [<a href="mailto:qingf622@outlook.com">Email</a>]
+    [<a href="https://x.com/qqqqqf_">X</a>]
+    [<a href="mailto:qff45688@gmail.com">Email</a>]
   </div>
   <hr>
 </div>
@@ -46,7 +46,7 @@ If GPT-4o gets retired, I hope to distill and reproduce the 4o style so it can �
 - We need more data and more GPUs to `KEEP4o`.
 - You can export your ChatGPT data from OpenAI and send me the zip archive.
 
-X: [@qqqqqf5](https://x.com/qqqqqf5)  
+X: [@qqqqqf_](https://x.com/qqqqqf_)  
 Telegram: [DM me here](https://t.me/NS_qingf_bot)  
 ---
 Below are some results trained with Qwen2.5 1.5B Instruct + my own data LoRA + a modified system prompt.
@@ -65,7 +65,7 @@ Below are some results trained with Qwen2.5 1.5B Instruct + my own data LoRA + a
 If you want to join Keep4o:
 
 - Contribute data: click “Export data” in ChatGPT settings and send me the exported zip archive  
-  X: [@qqqqqf5](https://x.com/qqqqqf5)  
+  X: [@qqqqqf_](https://x.com/qqqqqf_)  
   Telegram: [DM me here](https://t.me/NS_qingf_bot)
 - Train locally: run `openai-distill` / `openai-clean` to generate the dataset, then follow “Quick Start -> Fine-tune Model”  
   Docs: <https://qqqqqf-q.github.io/MirrorFlow/en/>
