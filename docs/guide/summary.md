@@ -16,6 +16,6 @@
 ### 如需更详细步骤或脚本参数解释，欢迎~~骚扰~~联系我:
 
 
- * Email:qingf622@outlook.com
- * X:@qqqqqf5
+ * Email:qff45688@gmail.com
+ * X:@qqqqqf_
 ---
